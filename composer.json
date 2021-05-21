@@ -1,0 +1,15 @@
+{
+    "name": "performance-media/cockpit-pipeline",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jakub Łosiowski",
+            "email": "jakub.losiowski@performance-media.pl"
+        }
+    ],
+    "require": {
+      "ext-curl": "*"
+    },
+    "description": ""
+}
