@@ -1,0 +1,16 @@
+{
+  "private_token": <PRIVATE_TOKEN>,
+  "project_id": <PROJECT_ID>,
+  "ref": {
+    "prod": {
+      "branch": <PROD_BRANCH>,
+      "schedule_id": <PROD_SCHEDULE_ID>
+    },
+    "stage": {
+      "branch": <STAGE_BRANCH>,
+      "schedule_id": <STAGE_SCHEDULE_ID>
+    }
+  },
+  "api_version": <GITLAB_API_VERSION>,
+  "gitlab_url": <GITLAB_URL>
+}

@@ -1,3 +1,6 @@
 .env
 .idea
 vendor
+pipelines.json
+.DS_Store
+Pipelines/.DS_store

@@ -1,15 +1,22 @@
 {
-    "name": "performance-media/cockpit-pipeline",
-    "type": "library",
-    "license": "proprietary",
-    "authors": [
-        {
-            "name": "Jakub Łosiowski",
-            "email": "jakub.losiowski@performance-media.pl"
-        }
-    ],
-    "require": {
-      "ext-curl": "*"
+  "name": "performance-media/cockpit-pipeline",
+  "type": "library",
+  "description": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jakub Łosiowski",
+      "email": "jakub.losiowski@performance-media.pl"
     },
-    "description": ""
+    {
+      "name": "Adrian Domarecki",
+      "email": "adrian.domarecki@performance-media.pl"
+    }
+  ],
+  "require": {
+    "php": "^7.3",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*"
+  }
 }

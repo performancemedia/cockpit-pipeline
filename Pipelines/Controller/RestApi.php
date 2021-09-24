@@ -1,6 +1,8 @@
 <?php
 
-namespace PmPipelines\Controller;
+declare(strict_types=1);
+
+namespace Pipelines\Controller;
 
 class RestApi extends \LimeExtra\Controller {
 
